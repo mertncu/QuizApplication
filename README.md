@@ -8,9 +8,10 @@ This is a simple Quiz application developed using Kotlin and Android Studio. The
 
 ## Screenshots
 
-![Main Screen](Screenshots/main_screen.png)
-![Question Screen](Screenshots/quiz_screen.png)
-![Result Screen](Screenshots/result_screen.png)
+<img src="screenshots/main_screen.png" alt="Main Screen" width="200"/>
+<img src="screenshots/question_screen.png" alt="Quiz Screen" width="200"/>
+<img src="screenshots/result_screen.png" alt="Result Screen" width="200"/>
+
 
 ## Nasıl Çalıştırılır
 
