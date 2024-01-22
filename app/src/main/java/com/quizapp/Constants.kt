@@ -95,6 +95,15 @@ object Constants {
 
         questionsList.add(que8)
 
+        val que9 = Question(
+            9, "Dünyanın En yakışıklı adamı?",
+            R.drawable.ic_linux,
+            "Hasan Kıvrakdal", "Hasan Kıvrakdal",
+            "Hasan Kıvrakdal", "Bilgesu Çakır", 1
+        )
+
+        questionsList.add(que9)
+
         return questionsList
     }
 }
