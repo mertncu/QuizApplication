@@ -12,9 +12,6 @@ This is a simple Quiz application developed using Kotlin and Android Studio. The
 <img src="Screenshots/question_screen.png" alt="Quiz Screen" width="200"/>
 <img src="Screenshots/result_screen.png" alt="Result Screen" width="200"/>
 
-
-## Nasıl Çalıştırılır
-
 ## How to Run
 
 1. Clone this repository to your computer:
