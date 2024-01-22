@@ -17,7 +17,7 @@ This is a simple Quiz application developed using Kotlin and Android Studio. The
 1. Clone this repository to your computer:
 
 ```bash
-https://github.com/mertncu/QuizApplication.git)https://github.com/mertncu/QuizApplication.git
+https://github.com/mertncu/QuizApplication.git
 ```
 2. Open Android Studio.
 3. Select "Open" from the "File" menu and choose the folder where the project is located.
